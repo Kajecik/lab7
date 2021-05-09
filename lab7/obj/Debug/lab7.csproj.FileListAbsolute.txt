@@ -1,0 +1,10 @@
+C:\Csharp\lab7\lab7\bin\Debug\grafika-lab7.exe.config
+C:\Csharp\lab7\lab7\bin\Debug\grafika-lab7.exe
+C:\Csharp\lab7\lab7\bin\Debug\grafika-lab7.pdb
+C:\Csharp\lab7\lab7\obj\Debug\lab7.csprojAssemblyReference.cache
+C:\Csharp\lab7\lab7\obj\Debug\grafika_lab7.Form1.resources
+C:\Csharp\lab7\lab7\obj\Debug\grafika_lab7.Properties.Resources.resources
+C:\Csharp\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.cache
+C:\Csharp\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Csharp\lab7\lab7\obj\Debug\grafika-lab7.exe
+C:\Csharp\lab7\lab7\obj\Debug\grafika-lab7.pdb
